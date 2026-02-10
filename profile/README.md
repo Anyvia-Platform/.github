@@ -5,6 +5,8 @@ Hey nut buster! Have you heard about Discord? Maybe WhatsApp? Or even... Telegra
 
 You may now continue. **Your trash-talking starts here: [Download Anyvia]()**
 
+![License](https://img.shields.io/badge/license-MIT-red) ![Status](https://img.shields.io/badge/status-WIP-fire)
+
 ---
 
 What are you doing down here? Well... I can see you are interested in the specifics.
@@ -45,6 +47,16 @@ What can they do? Almost ANYthing (ANYvia? catch it? never mind.)
 - Run Bad Apple? People will do crazy things, I suppose.
 
 So, have discretion when using community-made plugins; **THOSE CAN HARM, THEY CAN BITE.**
+
+## More about the project
+
+What's burning?
+- [x] Frontend aesthetic (that doesn't suck)
+- [ ] Voice channels with actual quality
+- [ ] More ways to annoy your friends
+
+Found a **bug** (undocumented feature)?
+> Open an issue. If it's a stupid bug, I'll fix it. If it's a stupid suggestion, I'll roast you.
 
 ---
 
