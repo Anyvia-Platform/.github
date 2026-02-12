@@ -55,7 +55,9 @@ What's burning?
 - [ ] Voice channels with actual quality
 - [ ] More ways to annoy your friends
 
-Found a **bug** (undocumented feature)? Open an issue. If it's a stupid bug, I'll fix it.
+Found a **bug** (undocumented feature)? Open an issue.
+
+If it's a stupid bug, I'll fix it.
 
 If it's a stupid suggestion, I'll roast you.
 
