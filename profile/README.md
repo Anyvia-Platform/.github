@@ -1,72 +1,57 @@
 # Anyvia Platform
 > Intended pronunciation \ˈɛnɪvˌi͡ə\
 
-Hey nut buster! Have you heard about Discord? Maybe WhatsApp? Or even... Telegram. Well, I was freaking tired of all the business shit going around; therefore, I've made my own.
+The <sub>free, open-source, E2EE, no-data-collection, lightweight, simple, modifiable, secure </sub> Communication Platform.
 
 You may now continue. **Your trash-talking starts here: [Download Anyvia]()**
 
-![License](https://img.shields.io/badge/license-MIT-red) ![Status](https://img.shields.io/badge/status-WIP-fire)
+![License](https://img.shields.io/badge/license-BSL-red) ![Status](https://img.shields.io/badge/status-WIP-fire)
 
 ---
 
-What are you doing down here? Well... I can see you are interested in the specifics.
+This is a standard Master-Edge server architecture with full E2EE support, persistence, and near-zero data collection.
 
-So... What do I offer?
-- E2EE communication (not P2P)
-- ANY kind of communication like:
-  - Text
-  - Images
-  - Video
-  - Gifs
-  - Pings
-  - Or even your custom ones
-
-If you wanna use this, keep in mind that it's specially designed *(the backend at least; though the frontend follows the same philosophy)* to:
-- Be *Blazingly fast* (no bs included)
-- Be a *Low resource eater* (f*ck chrome)
-- Have a *Good plugin system*
-- Allow free speech **(BUT PLEASE FOR GOD'S SAKE FOLLOW YOUR LAWS)**
-- Cure ADHD
+The only information in plain text is:
+- *your username* (in order to search for other users)
+- *roles* (duh)
+- *some dates* (for database performance and consistency)
+Everything else is encrypted, so don't worry about data-selling, AI training, or targeted ads.
 
 ---
 
-## Technologies
-The backend **IS NOT** open-source. Why? Cause I don't freaking want it to be.
+## About the repo
 
-JK, I plan to open source the backend in the future, but for now, it stays closed until further notice.
+This repo follows a clear 1-rule philosophy, and so should every contributor:
+- _**The user is sacred**_.
+They is the custumer, not the product. Therefore we care about UX, device resources and loading times.
 
-On the other hand, there is documentation for the API and how to use the platform; this exists so you can build your own frontend and make plugins.
+On the other hand, since it is open-source, there will be altered-clients.
+In case you wanna build your own, there's an extensive documentation for *almost* everything.
 
-## Plugins
-These are meant to be optional. There will be recommended ones made by me or from trusted sources.
-
-What can they do? Almost ANYthing (ANYvia? catch it? never mind.)
-- Auto-respond
-- Create UI
-- Custom communication (e.g., bell rings, screamers, whatever you can build)
-- Run Bad Apple? People will do crazy things, I suppose.
-
-So, have discretion when using community-made plugins; **THOSE CAN HARM**
-
-## More about the project
-
-What's burning?
-- [x] Frontend aesthetic (that doesn't suck)
-- [ ] Voice channels with actual quality
-- [ ] More ways to annoy your friends
-
-Found a **bug** (undocumented feature)? Open an issue.
+And if you found a **bug** (undocumented feature)? Open an issue.
 
 If it's a stupid bug, I'll fix it.
 
 If it's a stupid suggestion, I'll roast you.
 
+## Plugins
+
+These are meant to be optional but there will be recommended ones made by me or from trusted sources.
+
+These plugins can do virtually anything, since there's no sandbox they can access everything on the app, therefore the user is solely responsible for his account. So **PLEASE AND FOR GOD'S SAKE**. Be careful. there are bad people on the globe.
+
 ---
 
-Side note: even though nobody reads this, I really want it to be well-documented since the API is public, so you can build your own frontend if you please.
+## What's cooking?
 
-Also, keep in mind that I'm a solo dev. I want to build something that I myself would use; so if you have any suggestions, there will be polls.
+- [x] Frontend aesthetic (that doesn't suck)
+- [ ] Voice channels with actual quality
+- [ ] More ways to annoy your friends
 
 ---
 
-**DAMN**. That was a lot of text. Love ya <3
+Also, keep in mind that I'm a solo dev. I want to build something that I myself would use; so bear with me.
+
+---
+
+*In open-source we trust* | love ya <3
